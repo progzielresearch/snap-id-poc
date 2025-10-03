@@ -356,7 +356,7 @@ async def frontalize(
                 temperature=0.0,
                 top_p=0.1,
                 top_k=32,
-                seed=42
+                seed=None
             ),
         )
     except ClientError as e:
@@ -399,8 +399,7 @@ async def frontalize(
         content={
             "final_image": f"data:image/png;base64,{final_base64}",
             "watermarked_image": f"data:image/png;base64,{watermark_base64}",
-            "pdf": f"data:application/pdf;base64,{pdf_base64}",
-            "session_id": str(uuid4())
+            "pdf": f"data:application/pdf;base64,{pdf_base64}"
         },
         headers={
             "Cache-Control": "no-store"
