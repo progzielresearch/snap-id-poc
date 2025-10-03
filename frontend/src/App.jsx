@@ -6,6 +6,7 @@ import {
   Upload, Sparkles, Loader2, Download, Images, History, Trash2,
   Eye, X, Palette, FileText, ExternalLink, CreditCard, ShieldCheck, ChevronDown, ChevronDownCircle, Check
 } from "lucide-react";
+import crypto from 'crypto';
 
 /* ---------------------------
    Load dynamic country data
