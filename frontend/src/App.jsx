@@ -6,7 +6,6 @@ import {
   Upload, Sparkles, Loader2, Download, Images, History, Trash2,
   Eye, X, Palette, FileText, ExternalLink, CreditCard, ShieldCheck, ChevronDown, ChevronDownCircle, Check
 } from "lucide-react";
-import crypto from 'crypto';
 
 /* ---------------------------
    Load dynamic country data
@@ -21,8 +20,23 @@ const DPI = 300; // fixed (not shown in UI)
 const DOC_LABEL = { passport: "Passport", visa: "Visa", driving_license: "Driving License" };
 
 /* ---------------------------
-   Helpers
+   Helpers (includes safe UUID)
 ----------------------------*/
+// Safe UUID generator for browsers (works without Node 'crypto' and even on HTTP)
+function makeUUID() {
+  if (globalThis.crypto?.randomUUID) return globalThis.crypto.randomUUID();
+  const bytes = new Uint8Array(16);
+  if (globalThis.crypto?.getRandomValues) {
+    globalThis.crypto.getRandomValues(bytes);
+  } else {
+    for (let i = 0; i < 16; i++) bytes[i] = Math.floor(Math.random() * 256);
+  }
+  bytes[6] = (bytes[6] & 0x0f) | 0x40; // version 4
+  bytes[8] = (bytes[8] & 0x3f) | 0x80; // variant
+  const hex = [...bytes].map(b => b.toString(16).padStart(2, "0")).join("");
+  return `${hex.slice(0,8)}-${hex.slice(8,12)}-${hex.slice(12,16)}-${hex.slice(16,20)}-${hex.slice(20)}`;
+}
+
 const parseRgbString = (s) => {
   const m = /^\s*(\d{1,3})\s*,\s*(\d{1,3})\s*,\s*(\d{1,3})\s*$/.exec(String(s || ""));
   if (!m) return null;
@@ -31,17 +45,14 @@ const parseRgbString = (s) => {
 };
 const tupleToCss = ([r, g, b]) => `rgb(${r}, ${g}, ${b})`;
 
-// Replace the existing humanizeColorKey with this:
+// Humanize color keys and mark default
 const humanizeColorKey = (key) => {
   if (!key) return "";
-  // true if key ends with "-default" / "_default" / " default"
   const isDefault = /(?:^|[-_\s])default$/i.test(key);
-  // strip the trailing default token (with hyphen/underscore/space)
   const base = key.replace(/(?:[-_\s])default$/i, "");
   const pretty = base.replace(/[-_]/g, " ").replace(/\b\w/g, (m) => m.toUpperCase());
   return isDefault ? `${pretty} (Default)` : pretty;
 };
-
 
 const getCountryList = () =>
   Object.entries(COUNTRIES_DATA).map(([code, obj]) => ({
@@ -60,7 +71,6 @@ const getDimsFor = (code, docType) => {
 
 const getColorOptions = (code, docType) => {
   const colorObj = COUNTRIES_DATA[code]?.color?.[docType] || {};
-  // turn into array with stable ordering: default first, then others alpha
   const entries = Object.entries(colorObj);
   const defaultIdx = entries.findIndex(([k]) => /-default$/.test(k));
   const arranged = [
@@ -405,7 +415,6 @@ export default function App() {
     setCountry(code);
     const d = getDimsFor(code, docType);
     setResultAR(d ? d.w / d.h : null);
-    // RESET COLOR to default of this country/doc
     const def = getDefaultColor(code, docType);
     if (def) setBgRGB(def);
 
@@ -462,7 +471,7 @@ export default function App() {
       setResultUrl(wm); setFinalUrl(clean); setPdfUrl(pdf || "");
 
       const entry = {
-        id: crypto.randomUUID(),
+        id: makeUUID(),                 // ✅ no crypto.randomUUID
         time: new Date().toISOString(),
         bg: bgRGB.trim(),
         docType, country,
@@ -654,7 +663,7 @@ export default function App() {
       </header>
 
       {/* Main */}
-      <main className="max-w-7xl mx-auto px-4 py-6 grid grid-cols-1 lg:grid-cols-[1fr_330px] gap-6">
+      <main className="max-w-7xl mx:auto px-4 py-6 grid grid-cols-1 lg:grid-cols-[1fr_330px] gap-6">
         {/* Workbench */}
         <section className="space-y-4">
           <div
@@ -670,7 +679,7 @@ export default function App() {
                 </button>
               </div>
 
-              <div className="rounded-2xl border border-dashed border-white/15 bg-black/20 p-6 flex items-center justify-center text-center">
+              <div className="rounded-2xl border border-dashed border-white/15 bg:black/20 p-6 flex items-center justify-center text-center">
                 <div>
                   <Upload className="mx-auto h-10 w-10 text-indigo-400" />
                   <p className="mt-2 text-sm text-slate-300">Drag & drop images here, or</p>
@@ -746,7 +755,7 @@ export default function App() {
             {/* Live Output + OUTSIDE dimension lines */}
             <div className="md:w-80 w-full">
               <div className="relative rounded-2xl overflow-hidden border border-white/10 bg-gradient-to-br from-indigo-900/40 to-fuchsia-900/30 p-3">
-                {/* Top bar: unit switch LEFT, right shows inputs (kept per your approved version) */}
+                {/* Top bar */}
                 <div className="mb-2 flex items-center justify-between text-xs">
                   <div className="inline-flex items-center gap-1 rounded-xl bg-black/30 px-2 py-1 ring-1 ring-white/10">
                     <button
@@ -765,9 +774,9 @@ export default function App() {
                   <span>{files.length}/3 inputs</span>
                 </div>
 
-                {/* Lines + preview laid out in a small grid */}
+                {/* Lines + preview */}
                 <div className="grid grid-cols-[36px_1fr] grid-rows-[36px_1fr] gap-2">
-                  {/* Horizontal line ABOVE image (row 1, col 2) */}
+                  {/* Horizontal label */}
                   <div className="col-[2/3] row-[1/2] flex items-center justify-center">
                     <div className="relative h-px w-full bg-white/10">
                       <span className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 whitespace-nowrap leading-none text-[10px] font-medium px-2 py-0.5 rounded-full bg-black/40 text-slate-200/80 ring-1 ring-white/5 backdrop-blur-[1px]">
@@ -776,8 +785,8 @@ export default function App() {
                     </div>
                   </div>
 
-                  {/* VERTICAL line LEFT of image (row 2, col 1) */}
-                  <div className="col-[1/2] row-[2/3] self-stretch flex items-center justify-center">
+                  {/* Vertical label */}
+                  <div className="col-[1/2] row:[2/3] self-stretch flex items-center justify-center">
                     <div className="relative w-px h-full bg-white/10">
                       <span className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 -rotate-90 whitespace-nowrap leading-none text-[10px] font-medium px-2 py-0.5 rounded-full bg-black/40 text-slate-200/80 ring-1 ring-white/5 backdrop-blur-[1px]">
                         {prettyH}
@@ -785,7 +794,7 @@ export default function App() {
                     </div>
                   </div>
 
-                  {/* IMAGE CONTAINER (row 2, col 2) */}
+                  {/* Image area */}
                   <div className="col-[2/3] row-[2/3]">
                     <div
                       className="rounded-xl flex items-center justify-center bg-black/30 ring-1 ring-white/10 overflow-hidden"
@@ -827,7 +836,7 @@ export default function App() {
                   </div>
                 </div>
 
-                {/* Footer: Country • Document • Color Name */}
+                {/* Footer line */}
                 <div className="mt-2 text-xs text-slate-300 flex items-center justify-between">
                   <span className="truncate">
                     {country ? (COUNTRIES_DATA[country]?.country_name || country) : "—"} • {DOC_LABEL[docType]} • {colorLabel}
@@ -939,7 +948,7 @@ export default function App() {
         )}
       </AnimatePresence>
 
-      {/* Dummy Payment Modal (gates PNG/PDF download and PDF preview) */}
+      {/* Dummy Payment Modal */}
       <AnimatePresence>
         {showPay && (
           <motion.div
@@ -997,7 +1006,7 @@ export default function App() {
                 <button
                   onClick={confirmPayment}
                   disabled={payBusy}
-                  className="inline-flex items-center gap-2 rounded-xl bg-gradient-to-r from-emerald-500 to-cyan-500 hover:shadow-lg px-4 py-2 text-sm font-medium"
+                  className="inline-flex items-center gap-2 rounded-2xl bg-gradient-to-r from-emerald-500 to-cyan-500 hover:shadow-lg px-4 py-2 text-sm font-medium"
                 >
                   {payBusy ? <Loader2 className="h-4 w-4 animate-spin" /> : <CreditCard className="h-4 w-4" />}
                   {payBusy ? "Processing…" : "Pay (Demo)"}
