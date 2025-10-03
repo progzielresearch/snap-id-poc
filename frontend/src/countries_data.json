@@ -1,0 +1,4565 @@
+{
+  "AF": {
+    "country_name": "Afghanistan",
+    "country_flag": "https://flagcdn.com/w80/af.png",
+    "passport": "472,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "AL": {
+    "country_name": "Albania",
+    "country_flag": "https://flagcdn.com/w80/al.png",
+    "passport": "413,531",
+    "visa": "555,425",
+    "driving_license": "472,591",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "DZ": {
+    "country_name": "Algeria",
+    "country_flag": "https://flagcdn.com/w80/dz.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "AD": {
+    "country_name": "Andorra",
+    "country_flag": "https://flagcdn.com/w80/ad.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "AO": {
+    "country_name": "Angola",
+    "country_flag": "https://flagcdn.com/w80/ao.png",
+    "passport": "413,531",
+    "visa": "354,472",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "AG": {
+    "country_name": "Antigua and Barbuda",
+    "country_flag": "https://flagcdn.com/w80/ag.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "AR": {
+    "country_name": "Argentina",
+    "country_flag": "https://flagcdn.com/w80/ar.png",
+    "passport": "472,472",
+    "visa": "472,472",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "AM": {
+    "country_name": "Armenia",
+    "country_flag": "https://flagcdn.com/w80/am.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "AU": {
+    "country_name": "Australia",
+    "country_flag": "https://flagcdn.com/w80/au.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "AT": {
+    "country_name": "Austria",
+    "country_flag": "https://flagcdn.com/w80/at.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "AZ": {
+    "country_name": "Azerbaijan",
+    "country_flag": "https://flagcdn.com/w80/az.png",
+    "passport": "413,531",
+    "visa": "354,472",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "BS": {
+    "country_name": "Bahamas",
+    "country_flag": "https://flagcdn.com/w80/bs.png",
+    "passport": "480,640",
+    "visa": "600,600",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "BH": {
+    "country_name": "Bahrain",
+    "country_flag": "https://flagcdn.com/w80/bh.png",
+    "passport": "472,709",
+    "visa": "472,709",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "BD": {
+    "country_name": "Bangladesh",
+    "country_flag": "https://flagcdn.com/w80/bd.png",
+    "passport": "472,591",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "BB": {
+    "country_name": "Barbados",
+    "country_flag": "https://flagcdn.com/w80/bb.png",
+    "passport": "591,591",
+    "visa": "591,591",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "BY": {
+    "country_name": "Belarus",
+    "country_flag": "https://flagcdn.com/w80/by.png",
+    "passport": "472,591",
+    "visa": "413,531",
+    "driving_license": "472,591",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "BE": {
+    "country_name": "Belgium",
+    "country_flag": "https://flagcdn.com/w80/be.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "BZ": {
+    "country_name": "Belize",
+    "country_flag": "https://flagcdn.com/w80/bz.png",
+    "passport": "600,600",
+    "visa": "600,600",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "BJ": {
+    "country_name": "Benin",
+    "country_flag": "https://flagcdn.com/w80/bj.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "BT": {
+    "country_name": "Bhutan",
+    "country_flag": "https://flagcdn.com/w80/bt.png",
+    "passport": "531,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "BO": {
+    "country_name": "Bolivia",
+    "country_flag": "https://flagcdn.com/w80/bo.png",
+    "passport": "472,591",
+    "visa": "354,354",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "BA": {
+    "country_name": "Bosnia and Herzegovina",
+    "country_flag": "https://flagcdn.com/w80/ba.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "BW": {
+    "country_name": "Botswana",
+    "country_flag": "https://flagcdn.com/w80/bw.png",
+    "passport": "354,472",
+    "visa": "354,472",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "BR": {
+    "country_name": "Brazil",
+    "country_flag": "https://flagcdn.com/w80/br.png",
+    "passport": "591,827",
+    "visa": "236,236",
+    "driving_license": "354,472",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "BN": {
+    "country_name": "Brunei",
+    "country_flag": "https://flagcdn.com/w80/bn.png",
+    "passport": "614,472",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "BG": {
+    "country_name": "Bulgaria",
+    "country_flag": "https://flagcdn.com/w80/bg.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "BF": {
+    "country_name": "Burkina Faso",
+    "country_flag": "https://flagcdn.com/w80/bf.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "BI": {
+    "country_name": "Burundi",
+    "country_flag": "https://flagcdn.com/w80/bi.png",
+    "passport": "591,591",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "KH": {
+    "country_name": "Cambodia",
+    "country_flag": "https://flagcdn.com/w80/kh.png",
+    "passport": "472,709",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "CM": {
+    "country_name": "Cameroon",
+    "country_flag": "https://flagcdn.com/w80/cm.png",
+    "passport": "472,472",
+    "visa": "472,472",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "CA": {
+    "country_name": "Canada",
+    "country_flag": "https://flagcdn.com/w80/ca.png",
+    "passport": "591,827",
+    "visa": "413,531",
+    "driving_license": "591,591",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "CV": {
+    "country_name": "Cape Verde",
+    "country_flag": "https://flagcdn.com/w80/cv.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "CF": {
+    "country_name": "Central African Republic",
+    "country_flag": "https://flagcdn.com/w80/cf.png",
+    "passport": "413,531",
+    "visa": "236,236",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "TD": {
+    "country_name": "Chad",
+    "country_flag": "https://flagcdn.com/w80/td.png",
+    "passport": "591,591",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "CL": {
+    "country_name": "Chile",
+    "country_flag": "https://flagcdn.com/w80/cl.png",
+    "passport": "531,531",
+    "visa": "236,354",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "CN": {
+    "country_name": "China",
+    "country_flag": "https://flagcdn.com/w80/cn.png",
+    "passport": "390,567",
+    "visa": "390,567",
+    "driving_license": "260,378",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "CO": {
+    "country_name": "Colombia",
+    "country_flag": "https://flagcdn.com/w80/co.png",
+    "passport": "472,591",
+    "visa": "354,472",
+    "driving_license": "354,472",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "KM": {
+    "country_name": "Comoros",
+    "country_flag": "https://flagcdn.com/w80/km.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "CG": {
+    "country_name": "Congo (Brazzaville)",
+    "country_flag": "https://flagcdn.com/w80/cg.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "CR": {
+    "country_name": "Costa Rica",
+    "country_flag": "https://flagcdn.com/w80/cr.png",
+    "passport": "600,600",
+    "visa": "600,600",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "CI": {
+    "country_name": "Cote d'Ivoire",
+    "country_flag": "https://flagcdn.com/w80/ci.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "HR": {
+    "country_name": "Croatia",
+    "country_flag": "https://flagcdn.com/w80/hr.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "CU": {
+    "country_name": "Cuba",
+    "country_flag": "https://flagcdn.com/w80/cu.png",
+    "passport": "413,531",
+    "visa": "531,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "CY": {
+    "country_name": "Cyprus",
+    "country_flag": "https://flagcdn.com/w80/cy.png",
+    "passport": "472,591",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "CZ": {
+    "country_name": "Czech Republic",
+    "country_flag": "https://flagcdn.com/w80/cz.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "CD": {
+    "country_name": "Democratic Republic of Congo",
+    "country_flag": "https://flagcdn.com/w80/cd.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "DK": {
+    "country_name": "Denmark",
+    "country_flag": "https://flagcdn.com/w80/dk.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "DJ": {
+    "country_name": "Djibouti",
+    "country_flag": "https://flagcdn.com/w80/dj.png",
+    "passport": "413,413",
+    "visa": "602,602",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "DM": {
+    "country_name": "Dominica",
+    "country_flag": "https://flagcdn.com/w80/dm.png",
+    "passport": "531,450",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "DO": {
+    "country_name": "Dominican Republic",
+    "country_flag": "https://flagcdn.com/w80/do.png",
+    "passport": "600,600",
+    "visa": "472,591",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "EC": {
+    "country_name": "Ecuador",
+    "country_flag": "https://flagcdn.com/w80/ec.png",
+    "passport": "413,531",
+    "visa": "591,591",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "EG": {
+    "country_name": "Egypt",
+    "country_flag": "https://flagcdn.com/w80/eg.png",
+    "passport": "472,709",
+    "visa": "413,531",
+    "driving_license": "472,709",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "SV": {
+    "country_name": "El Salvador",
+    "country_flag": "https://flagcdn.com/w80/sv.png",
+    "passport": "600,450",
+    "visa": "600,450",
+    "driving_license": "600,450",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "GQ": {
+    "country_name": "Equatorial Guinea",
+    "country_flag": "https://flagcdn.com/w80/gq.png",
+    "passport": "600,600",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "ER": {
+    "country_name": "Eritrea",
+    "country_flag": "https://flagcdn.com/w80/er.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "EE": {
+    "country_name": "Estonia",
+    "country_flag": "https://flagcdn.com/w80/ee.png",
+    "passport": "472,591",
+    "visa": "472,591",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "SZ": {
+    "country_name": "Eswatini",
+    "country_flag": "https://flagcdn.com/w80/sz.png",
+    "passport": "591,591",
+    "visa": "591,591",
+    "driving_license": "591,591",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "ET": {
+    "country_name": "Ethiopia",
+    "country_flag": "https://flagcdn.com/w80/et.png",
+    "passport": "354,472",
+    "visa": "354,472",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "FJ": {
+    "country_name": "Fiji",
+    "country_flag": "https://flagcdn.com/w80/fj.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "FI": {
+    "country_name": "Finland",
+    "country_flag": "https://flagcdn.com/w80/fi.png",
+    "passport": "425,555",
+    "visa": "413,531",
+    "driving_license": "425,555",
+    "color": {
+      "passport": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "FR": {
+    "country_name": "France",
+    "country_flag": "https://flagcdn.com/w80/fr.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "GA": {
+    "country_name": "Gabon",
+    "country_flag": "https://flagcdn.com/w80/ga.png",
+    "passport": "472,591",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "GM": {
+    "country_name": "Gambia",
+    "country_flag": "https://flagcdn.com/w80/gm.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "GE": {
+    "country_name": "Georgia",
+    "country_flag": "https://flagcdn.com/w80/ge.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "DE": {
+    "country_name": "Germany",
+    "country_flag": "https://flagcdn.com/w80/de.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "GH": {
+    "country_name": "Ghana",
+    "country_flag": "https://flagcdn.com/w80/gh.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "GR": {
+    "country_name": "Greece",
+    "country_flag": "https://flagcdn.com/w80/gr.png",
+    "passport": "472,709",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "GD": {
+    "country_name": "Grenada",
+    "country_flag": "https://flagcdn.com/w80/gd.png",
+    "passport": "450,600",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "GT": {
+    "country_name": "Guatemala",
+    "country_flag": "https://flagcdn.com/w80/gt.png",
+    "passport": "307,378",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "GN": {
+    "country_name": "Guinea Conakry",
+    "country_flag": "https://flagcdn.com/w80/gn.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "GW": {
+    "country_name": "Guinea-Bissau",
+    "country_flag": "https://flagcdn.com/w80/gw.png",
+    "passport": "413,531",
+    "visa": "354,472",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "GY": {
+    "country_name": "Guyana",
+    "country_flag": "https://flagcdn.com/w80/gy.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "HT": {
+    "country_name": "Haiti",
+    "country_flag": "https://flagcdn.com/w80/ht.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "HN": {
+    "country_name": "Honduras",
+    "country_flag": "https://flagcdn.com/w80/hn.png",
+    "passport": "354,472",
+    "visa": "354,472",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "HU": {
+    "country_name": "Hungary",
+    "country_flag": "https://flagcdn.com/w80/hu.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "IS": {
+    "country_name": "Iceland",
+    "country_flag": "https://flagcdn.com/w80/is.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "IN": {
+    "country_name": "India",
+    "country_flag": "https://flagcdn.com/w80/in.png",
+    "passport": "413,531",
+    "visa": "600,600",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "ID": {
+    "country_name": "Indonesia",
+    "country_flag": "https://flagcdn.com/w80/id.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "IR": {
+    "country_name": "Iran",
+    "country_flag": "https://flagcdn.com/w80/ir.png",
+    "passport": "354,472",
+    "visa": "591,709",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "IQ": {
+    "country_name": "Iraq",
+    "country_flag": "https://flagcdn.com/w80/iq.png",
+    "passport": "413,531",
+    "visa": "600,600",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "IE": {
+    "country_name": "Ireland",
+    "country_flag": "https://flagcdn.com/w80/ie.png",
+    "passport": "716,951",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "IL": {
+    "country_name": "Israel",
+    "country_flag": "https://flagcdn.com/w80/il.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "IT": {
+    "country_name": "Italy",
+    "country_flag": "https://flagcdn.com/w80/it.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "JM": {
+    "country_name": "Jamaica",
+    "country_flag": "https://flagcdn.com/w80/jm.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "JP": {
+    "country_name": "Japan",
+    "country_flag": "https://flagcdn.com/w80/jp.png",
+    "passport": "413,531",
+    "visa": "531,531",
+    "driving_license": "283,354",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "JO": {
+    "country_name": "Jordan",
+    "country_flag": "https://flagcdn.com/w80/jo.png",
+    "passport": "472,709",
+    "visa": "472,591",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "KZ": {
+    "country_name": "Kazakhstan",
+    "country_flag": "https://flagcdn.com/w80/kz.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "KE": {
+    "country_name": "Kenya",
+    "country_flag": "https://flagcdn.com/w80/ke.png",
+    "passport": "600,600",
+    "visa": "600,600",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "KI": {
+    "country_name": "Kiribati",
+    "country_flag": "https://flagcdn.com/w80/ki.png",
+    "passport": "591,591",
+    "visa": "591,591",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "KW": {
+    "country_name": "Kuwait",
+    "country_flag": "https://flagcdn.com/w80/kw.png",
+    "passport": "472,709",
+    "visa": "600,600",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "KG": {
+    "country_name": "Kyrgyzstan",
+    "country_flag": "https://flagcdn.com/w80/kg.png",
+    "passport": "472,709",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "LA": {
+    "country_name": "Laos",
+    "country_flag": "https://flagcdn.com/w80/la.png",
+    "passport": "472,709",
+    "visa": "354,472",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "LV": {
+    "country_name": "Latvia",
+    "country_flag": "https://flagcdn.com/w80/lv.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "LB": {
+    "country_name": "Lebanon",
+    "country_flag": "https://flagcdn.com/w80/lb.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "LS": {
+    "country_name": "Lesotho",
+    "country_flag": "https://flagcdn.com/w80/ls.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "LR": {
+    "country_name": "Liberia",
+    "country_flag": "https://flagcdn.com/w80/lr.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "LY": {
+    "country_name": "Libya",
+    "country_flag": "https://flagcdn.com/w80/ly.png",
+    "passport": "472,709",
+    "visa": "472,709",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "LI": {
+    "country_name": "Liechtenstein",
+    "country_flag": "https://flagcdn.com/w80/li.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "LT": {
+    "country_name": "Lithuania",
+    "country_flag": "https://flagcdn.com/w80/lt.png",
+    "passport": "472,709",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "LU": {
+    "country_name": "Luxembourg",
+    "country_flag": "https://flagcdn.com/w80/lu.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "MG": {
+    "country_name": "Madagascar",
+    "country_flag": "https://flagcdn.com/w80/mg.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "MW": {
+    "country_name": "Malawi",
+    "country_flag": "https://flagcdn.com/w80/mw.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "MY": {
+    "country_name": "Malaysia",
+    "country_flag": "https://flagcdn.com/w80/my.png",
+    "passport": "413,591",
+    "visa": "413,591",
+    "driving_license": "295,378",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "MV": {
+    "country_name": "Maldives",
+    "country_flag": "https://flagcdn.com/w80/mv.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "ML": {
+    "country_name": "Mali",
+    "country_flag": "https://flagcdn.com/w80/ml.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "MT": {
+    "country_name": "Malta",
+    "country_flag": "https://flagcdn.com/w80/mt.png",
+    "passport": "472,354",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "MH": {
+    "country_name": "Marshall Islands",
+    "country_flag": "https://flagcdn.com/w80/mh.png",
+    "passport": "600,600",
+    "visa": "600,600",
+    "driving_license": "600,600",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "MQ": {
+    "country_name": "Martinique",
+    "country_flag": "https://flagcdn.com/w80/mq.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "MR": {
+    "country_name": "Mauritania",
+    "country_flag": "https://flagcdn.com/w80/mr.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "MU": {
+    "country_name": "Mauritius",
+    "country_flag": "https://flagcdn.com/w80/mu.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "YT": {
+    "country_name": "Mayotte",
+    "country_flag": "https://flagcdn.com/w80/yt.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "MX": {
+    "country_name": "Mexico",
+    "country_flag": "https://flagcdn.com/w80/mx.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "FM": {
+    "country_name": "Micronesia",
+    "country_flag": "https://flagcdn.com/w80/fm.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "MD": {
+    "country_name": "Moldova",
+    "country_flag": "https://flagcdn.com/w80/md.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "MC": {
+    "country_name": "Monaco",
+    "country_flag": "https://flagcdn.com/w80/mc.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "MN": {
+    "country_name": "Mongolia",
+    "country_flag": "https://flagcdn.com/w80/mn.png",
+    "passport": "472,709",
+    "visa": "354,472",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "ME": {
+    "country_name": "Montenegro",
+    "country_flag": "https://flagcdn.com/w80/me.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "MA": {
+    "country_name": "Morocco",
+    "country_flag": "https://flagcdn.com/w80/ma.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "MZ": {
+    "country_name": "Mozambique",
+    "country_flag": "https://flagcdn.com/w80/mz.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "MM": {
+    "country_name": "Myanmar",
+    "country_flag": "https://flagcdn.com/w80/mm.png",
+    "passport": "413,531",
+    "visa": "449,543",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "NA": {
+    "country_name": "Namibia",
+    "country_flag": "https://flagcdn.com/w80/na.png",
+    "passport": "436,614",
+    "visa": "436,614",
+    "driving_license": "436,614",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "NR": {
+    "country_name": "Nauru",
+    "country_flag": "https://flagcdn.com/w80/nr.png",
+    "passport": "531,413",
+    "visa": "531,413",
+    "driving_license": "531,413",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "NP": {
+    "country_name": "Nepal",
+    "country_flag": "https://flagcdn.com/w80/np.png",
+    "passport": "413,531",
+    "visa": "600,600",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "NL": {
+    "country_name": "Netherlands",
+    "country_flag": "https://flagcdn.com/w80/nl.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "NZ": {
+    "country_name": "New Zealand",
+    "country_flag": "https://flagcdn.com/w80/nz.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "NI": {
+    "country_name": "Nicaragua",
+    "country_flag": "https://flagcdn.com/w80/ni.png",
+    "passport": "472,591",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "NE": {
+    "country_name": "Niger",
+    "country_flag": "https://flagcdn.com/w80/ne.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "NG": {
+    "country_name": "Nigeria",
+    "country_flag": "https://flagcdn.com/w80/ng.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "NU": {
+    "country_name": "Niue",
+    "country_flag": "https://flagcdn.com/w80/nu.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "NF": {
+    "country_name": "Norfolk Island",
+    "country_flag": "https://flagcdn.com/w80/nf.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "KP": {
+    "country_name": "North Korea",
+    "country_flag": "https://flagcdn.com/w80/kp.png",
+    "passport": "413,531",
+    "visa": "354,472",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "MK": {
+    "country_name": "North Macedonia",
+    "country_flag": "https://flagcdn.com/w80/mk.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "NO": {
+    "country_name": "Norway",
+    "country_flag": "https://flagcdn.com/w80/no.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "OM": {
+    "country_name": "Oman",
+    "country_flag": "https://flagcdn.com/w80/om.png",
+    "passport": "472,709",
+    "visa": "472,709",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "PK": {
+    "country_name": "Pakistan",
+    "country_flag": "https://flagcdn.com/w80/pk.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "PW": {
+    "country_name": "Palau",
+    "country_flag": "https://flagcdn.com/w80/pw.png",
+    "passport": "600,600",
+    "visa": "600,600",
+    "driving_license": "600,600",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "PS": {
+    "country_name": "Palestine",
+    "country_flag": "https://flagcdn.com/w80/ps.png",
+    "passport": "413,531",
+    "visa": "354,472",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "PA": {
+    "country_name": "Panama",
+    "country_flag": "https://flagcdn.com/w80/pa.png",
+    "passport": "413,531",
+    "visa": "600,600",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "PG": {
+    "country_name": "Papua New Guinea",
+    "country_flag": "https://flagcdn.com/w80/pg.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "PY": {
+    "country_name": "Paraguay",
+    "country_flag": "https://flagcdn.com/w80/py.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "PE": {
+    "country_name": "Peru",
+    "country_flag": "https://flagcdn.com/w80/pe.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "PH": {
+    "country_name": "Philippines",
+    "country_flag": "https://flagcdn.com/w80/ph.png",
+    "passport": "413,531",
+    "visa": "600,600",
+    "driving_license": "600,600",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "PL": {
+    "country_name": "Poland",
+    "country_flag": "https://flagcdn.com/w80/pl.png",
+    "passport": "413,531",
+    "visa": "354,413",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "PT": {
+    "country_name": "Portugal",
+    "country_flag": "https://flagcdn.com/w80/pt.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "PR": {
+    "country_name": "Puerto Rico",
+    "country_flag": "https://flagcdn.com/w80/pr.png",
+    "passport": "600,600",
+    "visa": "600,600",
+    "driving_license": "600,600",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "QA": {
+    "country_name": "Qatar",
+    "country_flag": "https://flagcdn.com/w80/qa.png",
+    "passport": "449,567",
+    "visa": "449,567",
+    "driving_license": "449,567",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "RO": {
+    "country_name": "Romania",
+    "country_flag": "https://flagcdn.com/w80/ro.png",
+    "passport": "413,531",
+    "visa": "354,472",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "RU": {
+    "country_name": "Russia",
+    "country_flag": "https://flagcdn.com/w80/ru.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "246,351",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "RW": {
+    "country_name": "Rwanda",
+    "country_flag": "https://flagcdn.com/w80/rw.png",
+    "passport": "472,472",
+    "visa": "600,600",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "RE": {
+    "country_name": "Réunion",
+    "country_flag": "https://flagcdn.com/w80/re.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "BL": {
+    "country_name": "Saint Barthélemy",
+    "country_flag": "https://flagcdn.com/w80/bl.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "SH": {
+    "country_name": "Saint Helena, Ascension and Tristan da Cunha",
+    "country_flag": "https://flagcdn.com/w80/sh.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "KN": {
+    "country_name": "Saint Kitts and Nevis",
+    "country_flag": "https://flagcdn.com/w80/kn.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "LC": {
+    "country_name": "Saint Lucia",
+    "country_flag": "https://flagcdn.com/w80/lc.png",
+    "passport": "600,450",
+    "visa": "600,450",
+    "driving_license": "600,450",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "MF": {
+    "country_name": "Saint Martin (French part)",
+    "country_flag": "https://flagcdn.com/w80/mf.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "PM": {
+    "country_name": "Saint Pierre and Miquelon",
+    "country_flag": "https://flagcdn.com/w80/pm.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "VC": {
+    "country_name": "Saint Vincent and the Grenadines",
+    "country_flag": "https://flagcdn.com/w80/vc.png",
+    "passport": "531,413",
+    "visa": "531,413",
+    "driving_license": "531,413",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "WS": {
+    "country_name": "Samoa",
+    "country_flag": "https://flagcdn.com/w80/ws.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "SM": {
+    "country_name": "San Marino",
+    "country_flag": "https://flagcdn.com/w80/sm.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "ST": {
+    "country_name": "Sao Tome and Principe",
+    "country_flag": "https://flagcdn.com/w80/st.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "SA": {
+    "country_name": "Saudi Arabia",
+    "country_flag": "https://flagcdn.com/w80/sa.png",
+    "passport": "472,709",
+    "visa": "472,709",
+    "driving_license": "449,567",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "SN": {
+    "country_name": "Senegal",
+    "country_flag": "https://flagcdn.com/w80/sn.png",
+    "passport": "600,600",
+    "visa": "600,600",
+    "driving_license": "600,600",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "RS": {
+    "country_name": "Serbia",
+    "country_flag": "https://flagcdn.com/w80/rs.png",
+    "passport": "591,591",
+    "visa": "413,531",
+    "driving_license": "591,591",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "SC": {
+    "country_name": "Seychelles",
+    "country_flag": "https://flagcdn.com/w80/sc.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "SL": {
+    "country_name": "Sierra Leone",
+    "country_flag": "https://flagcdn.com/w80/sl.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "SG": {
+    "country_name": "Singapore",
+    "country_flag": "https://flagcdn.com/w80/sg.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "SK": {
+    "country_name": "Slovakia",
+    "country_flag": "https://flagcdn.com/w80/sk.png",
+    "passport": "413,531",
+    "visa": "354,413",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "SI": {
+    "country_name": "Slovenia",
+    "country_flag": "https://flagcdn.com/w80/si.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "SB": {
+    "country_name": "Solomon Islands",
+    "country_flag": "https://flagcdn.com/w80/sb.png",
+    "passport": "472,591",
+    "visa": "600,600",
+    "driving_license": "472,591",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "SO": {
+    "country_name": "Somalia",
+    "country_flag": "https://flagcdn.com/w80/so.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "ZA": {
+    "country_name": "South Africa",
+    "country_flag": "https://flagcdn.com/w80/za.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "GS": {
+    "country_name": "South Georgia and the South Sandwich Islands",
+    "country_flag": "https://flagcdn.com/w80/gs.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "KR": {
+    "country_name": "South Korea",
+    "country_flag": "https://flagcdn.com/w80/kr.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "SS": {
+    "country_name": "South Sudan",
+    "country_flag": "https://flagcdn.com/w80/ss.png",
+    "passport": "413,531",
+    "visa": "600,600",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "ES": {
+    "country_name": "Spain",
+    "country_flag": "https://flagcdn.com/w80/es.png",
+    "passport": "472,626",
+    "visa": "413,531",
+    "driving_license": "378,307",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "LK": {
+    "country_name": "Sri Lanka",
+    "country_flag": "https://flagcdn.com/w80/lk.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "SD": {
+    "country_name": "Sudan",
+    "country_flag": "https://flagcdn.com/w80/sd.png",
+    "passport": "472,591",
+    "visa": "472,591",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "SR": {
+    "country_name": "Suriname",
+    "country_flag": "https://flagcdn.com/w80/sr.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "SE": {
+    "country_name": "Sweden",
+    "country_flag": "https://flagcdn.com/w80/se.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "CH": {
+    "country_name": "Switzerland",
+    "country_flag": "https://flagcdn.com/w80/ch.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "SY": {
+    "country_name": "Syria",
+    "country_flag": "https://flagcdn.com/w80/sy.png",
+    "passport": "472,472",
+    "visa": "472,709",
+    "driving_license": "472,472",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "TW": {
+    "country_name": "Taiwan",
+    "country_flag": "https://flagcdn.com/w80/tw.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "354,295",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "TJ": {
+    "country_name": "Tajikistan",
+    "country_flag": "https://flagcdn.com/w80/tj.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "TZ": {
+    "country_name": "Tanzania",
+    "country_flag": "https://flagcdn.com/w80/tz.png",
+    "passport": "472,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "TH": {
+    "country_name": "Thailand",
+    "country_flag": "https://flagcdn.com/w80/th.png",
+    "passport": "413,531",
+    "visa": "472,709",
+    "driving_license": "600,600",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "TL": {
+    "country_name": "Timor-Leste",
+    "country_flag": "https://flagcdn.com/w80/tl.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "TG": {
+    "country_name": "Togo",
+    "country_flag": "https://flagcdn.com/w80/tg.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "TK": {
+    "country_name": "Tokelau",
+    "country_flag": "https://flagcdn.com/w80/tk.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "TO": {
+    "country_name": "Tonga",
+    "country_flag": "https://flagcdn.com/w80/to.png",
+    "passport": "591,591",
+    "visa": "591,591",
+    "driving_license": "591,591",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "TT": {
+    "country_name": "Trinidad and Tobago",
+    "country_flag": "https://flagcdn.com/w80/tt.png",
+    "passport": "366,484",
+    "visa": "366,484",
+    "driving_license": "366,484",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "TN": {
+    "country_name": "Tunisia",
+    "country_flag": "https://flagcdn.com/w80/tn.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "TR": {
+    "country_name": "Turkey",
+    "country_flag": "https://flagcdn.com/w80/tr.png",
+    "passport": "591,709",
+    "visa": "591,709",
+    "driving_license": "591,709",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "TM": {
+    "country_name": "Turkmenistan",
+    "country_flag": "https://flagcdn.com/w80/tm.png",
+    "passport": "354,472",
+    "visa": "591,709",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "TC": {
+    "country_name": "Turks and Caicos Islands",
+    "country_flag": "https://flagcdn.com/w80/tc.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "TV": {
+    "country_name": "Tuvalu",
+    "country_flag": "https://flagcdn.com/w80/tv.png",
+    "passport": "600,600",
+    "visa": "600,600",
+    "driving_license": "600,600",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "UG": {
+    "country_name": "Uganda",
+    "country_flag": "https://flagcdn.com/w80/ug.png",
+    "passport": "600,600",
+    "visa": "600,600",
+    "driving_license": "600,600",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "UA": {
+    "country_name": "Ukraine",
+    "country_flag": "https://flagcdn.com/w80/ua.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "AE": {
+    "country_name": "United Arab Emirates",
+    "country_flag": "https://flagcdn.com/w80/ae.png",
+    "passport": "472,709",
+    "visa": "413,531",
+    "driving_license": "472,709",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "GB": {
+    "country_name": "United Kingdom",
+    "country_flag": "https://flagcdn.com/w80/gb.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "US": {
+    "country_name": "United States",
+    "country_flag": "https://flagcdn.com/w80/us.png",
+    "passport": "600,600",
+    "visa": "600,600",
+    "driving_license": "600,600",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "UM": {
+    "country_name": "United States Minor Outlying Islands",
+    "country_flag": "https://flagcdn.com/w80/um.png",
+    "passport": "600,600",
+    "visa": "600,600",
+    "driving_license": "600,600",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "UY": {
+    "country_name": "Uruguay",
+    "country_flag": "https://flagcdn.com/w80/uy.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "UZ": {
+    "country_name": "Uzbekistan",
+    "country_flag": "https://flagcdn.com/w80/uz.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "VU": {
+    "country_name": "Vanuatu",
+    "country_flag": "https://flagcdn.com/w80/vu.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "VA": {
+    "country_name": "Vatican City",
+    "country_flag": "https://flagcdn.com/w80/va.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "VE": {
+    "country_name": "Venezuela",
+    "country_flag": "https://flagcdn.com/w80/ve.png",
+    "passport": "413,531",
+    "visa": "354,472",
+    "driving_license": "335,447",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "VN": {
+    "country_name": "Vietnam",
+    "country_flag": "https://flagcdn.com/w80/vn.png",
+    "passport": "472,709",
+    "visa": "472,709",
+    "driving_license": "472,709",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "VG": {
+    "country_name": "Virgin Islands (British)",
+    "country_flag": "https://flagcdn.com/w80/vg.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "VI": {
+    "country_name": "Virgin Islands (U.S.)",
+    "country_flag": "https://flagcdn.com/w80/vi.png",
+    "passport": "600,600",
+    "visa": "600,600",
+    "driving_license": "600,600",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "WF": {
+    "country_name": "Wallis and Futuna",
+    "country_flag": "https://flagcdn.com/w80/wf.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "light_gray-default": "245,245,245",
+        "white": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "EH": {
+    "country_name": "Western Sahara",
+    "country_flag": "https://flagcdn.com/w80/eh.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "YE": {
+    "country_name": "Yemen",
+    "country_flag": "https://flagcdn.com/w80/ye.png",
+    "passport": "709,472",
+    "visa": "472,709",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "YU": {
+    "country_name": "Yugoslavia",
+    "country_flag": "https://flagcdn.com/w80/yu.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "ZM": {
+    "country_name": "Zambia",
+    "country_flag": "https://flagcdn.com/w80/zm.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  },
+  "ZW": {
+    "country_name": "Zimbabwe",
+    "country_flag": "https://flagcdn.com/w80/zw.png",
+    "passport": "413,531",
+    "visa": "413,531",
+    "driving_license": "413,531",
+    "color": {
+      "passport": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "visa": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      },
+      "driving_license": {
+        "white-default": "255,255,255",
+        "blue": "137,207,240"
+      }
+    }
+  }
+}
