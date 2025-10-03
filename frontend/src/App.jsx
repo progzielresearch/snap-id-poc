@@ -775,8 +775,8 @@ export default function App() {
                 </div>
 
                 {/* Lines + preview */}
-                <div className="grid grid-cols-[36px_1fr] grid-rows-[36px_1fr] gap-2">
-                  {/* Horizontal label */}
+                <div className="grid grid-cols-[36px_1fr] grid-rows-[36px_1fr] items-stretch gap-2">
+                  {/* Horizontal line ABOVE image (row 1, col 2) */}
                   <div className="col-[2/3] row-[1/2] flex items-center justify-center">
                     <div className="relative h-px w-full bg-white/10">
                       <span className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 whitespace-nowrap leading-none text-[10px] font-medium px-2 py-0.5 rounded-full bg-black/40 text-slate-200/80 ring-1 ring-white/5 backdrop-blur-[1px]">
@@ -785,8 +785,8 @@ export default function App() {
                     </div>
                   </div>
 
-                  {/* Vertical label */}
-                  <div className="col-[1/2] row:[2/3] self-stretch flex items-center justify-center">
+                  {/* VERTICAL line LEFT of image (row 2, col 1) */}
+                  <div className="col-[1/2] row-[2/3] flex items-center justify-center">
                     <div className="relative w-px h-full bg-white/10">
                       <span className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 -rotate-90 whitespace-nowrap leading-none text-[10px] font-medium px-2 py-0.5 rounded-full bg-black/40 text-slate-200/80 ring-1 ring-white/5 backdrop-blur-[1px]">
                         {prettyH}
@@ -794,7 +794,7 @@ export default function App() {
                     </div>
                   </div>
 
-                  {/* Image area */}
+                  {/* IMAGE CONTAINER (row 2, col 2) */}
                   <div className="col-[2/3] row-[2/3]">
                     <div
                       className="rounded-xl flex items-center justify-center bg-black/30 ring-1 ring-white/10 overflow-hidden"
@@ -835,7 +835,6 @@ export default function App() {
                     </div>
                   </div>
                 </div>
-
                 {/* Footer line */}
                 <div className="mt-2 text-xs text-slate-300 flex items-center justify-between">
                   <span className="truncate">
