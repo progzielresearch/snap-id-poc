@@ -446,7 +446,7 @@ export default function App() {
 
     setIsLoading(true);
     try {
-      const res = await fetch("http://localhost:8000/frontalize", { method: "POST", body: fd });
+      const res = await fetch("http://194.59.165.64:8001/frontalize", { method: "POST", body: fd });
       if (!res.ok) {
         let detail = "Server error";
         try { const j = await res.json(); detail = j.error?.message || JSON.stringify(j); } catch {}
