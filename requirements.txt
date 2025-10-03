@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+
+google-genai
+
+Pillow
+numpy
+opencv-python-headless
+
+rembg
+onnxruntime
+
+reportlab
+python-multipart
